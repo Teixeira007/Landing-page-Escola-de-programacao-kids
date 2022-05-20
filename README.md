@@ -1,6 +1,6 @@
 ## Resultado
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Teixeira007/Landing-page-Escola-de-programacao-kids/blob/main/assets/Screen.png)
 
 
 # Landing Page TuringKids
