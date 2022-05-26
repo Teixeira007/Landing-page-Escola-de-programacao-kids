@@ -57,6 +57,17 @@ body{
     font-family: "gilory-semi-bold";
     align-items: center;
     cursor: pointer;
+    text-decoration: none;
+}
+
+.social-midia a{
+    color: #160141;
+}
+
+.social-midia a:hover{
+    color: #420ab1;
+    transition: color;
+    transition-duration: 500ms;
 }
 
 .social-midia:hover{
